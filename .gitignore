@@ -1,20 +1,19 @@
-# Eclipse
-.classpath
-.project
-.settings/
-
-# Intellij
-.idea/
-*.iml
-*.iws
-
-# Mac
-.DS_Store
-
-# Maven
-log/
+# Compiled κώδικας (Maven)
 target/
 
-# Reports
+# Φάκελοι του IntelliJ (ρυθμίσεις που δεν αφορούν άλλους)
+.idea/
+*.iml
+
+# Logs και προσωρινά αρχεία
+*.log
+logs/
+
+# Reports και Screenshots (Δεν τα θέλουμε στο GitHub)
 test-output/
-reports/
+evidence/
+Reports/
+*saucedemo-selenium-java*
+
+# Αρχεία συστήματος (Mac)
+.DS_Store
