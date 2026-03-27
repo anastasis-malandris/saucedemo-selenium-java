@@ -1,0 +1,309 @@
+02:37:58.074 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - ========== setUp ===========
+02:37:58.086 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - ========== Starting test cases execution ===========
+02:38:02.591 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - Open Browser and Navigate to URL
+02:38:02.628 [main] INFO  utils.TestLogger - Open Browser and Navigate to URL(Extent report)
+02:38:02.650 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - Navigated to URL: https://www.saucedemo.com/
+02:38:02.786 [main] INFO  utils.TestLogger - Test suite started: Test
+02:38:02.950 [main] INFO  utils.TestLogger - Test started: userLogin
+02:38:03.155 [main] INFO  utils.TestLogger - Enter credentials(Extent report)
+02:38:04.161 [main] INFO  utils.TestLogger - PASS: Test passed: userLogin
+02:38:04.166 [main] INFO  utils.TestLogger - Test started: preOrden
+02:38:04.717 [main] INFO  utils.TestLogger - click Add to cart(Extent report)
+02:38:05.391 [main] INFO  utils.TestLogger - PASS: Test passed: preOrden
+02:38:05.393 [main] INFO  utils.TestLogger - Test started: checkOut
+02:38:05.397 [main] INFO  utils.TestLogger - click Checkout(Extent report)
+02:38:06.678 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - click Finish
+02:38:07.331 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - Final checkout message: Checkout: Complete!
+02:38:07.332 [main] INFO  utils.TestLogger - Final checkout message : Checkout: Complete!
+02:38:07.554 [main] INFO  utils.TestLogger - PASS: Test passed: checkOut
+02:38:07.560 [main] INFO  utils.TestLogger - Test suite finished: Test
+02:38:08.737 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - ========== tearDown ===========
+07/23/2024 02:46:12.521 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - ========== setUp ===========
+07/23/2024 02:46:12.531 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - ========== Starting test cases execution ===========
+07/23/2024 02:46:17.049 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - Open Browser and Navigate to URL
+07/23/2024 02:46:17.055 [main] INFO  utils.TestLogger - Open Browser and Navigate to URL(Extent report)
+07/23/2024 02:46:17.080 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - Navigated to URL: https://www.saucedemo.com/
+07/23/2024 02:46:17.237 [main] INFO  utils.TestLogger - Test suite started: Test
+07/23/2024 02:46:17.333 [main] INFO  utils.TestLogger - Test started: userLogin
+07/23/2024 02:46:17.409 [main] INFO  utils.TestLogger - Enter credentials(Extent report)
+07/23/2024 02:46:18.264 [main] INFO  utils.TestLogger - PASS: Test passed: userLogin
+07/23/2024 02:46:18.271 [main] INFO  utils.TestLogger - Test started: preOrden
+07/23/2024 02:46:19.021 [main] INFO  utils.TestLogger - click Add to cart(Extent report)
+07/23/2024 02:46:19.687 [main] INFO  utils.TestLogger - PASS: Test passed: preOrden
+07/23/2024 02:46:19.689 [main] INFO  utils.TestLogger - Test started: checkOut
+07/23/2024 02:46:19.691 [main] INFO  utils.TestLogger - click Checkout(Extent report)
+07/23/2024 02:46:20.856 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - click Finish
+07/23/2024 02:46:21.419 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - Final checkout message: Checkout: Complete!
+07/23/2024 02:46:21.419 [main] INFO  utils.TestLogger - Final checkout message : Checkout: Complete!
+07/23/2024 02:46:21.623 [main] INFO  utils.TestLogger - PASS: Test passed: checkOut
+07/23/2024 02:46:21.635 [main] INFO  utils.TestLogger - Test suite finished: Test
+07/23/2024 02:46:22.773 [main] INFO  saucedemo.selenium.Test_BonusTrack2 - ========== tearDown ===========
+07/23/2024 02:54:27.594 [main] INFO  Test_BonusTrack2 - ========== setUp ===========
+07/23/2024 02:54:27.599 [main] INFO  Test_BonusTrack2 - ========== Starting test cases execution ===========
+07/23/2024 02:54:31.951 [main] INFO  Test_BonusTrack2 - Open Browser and Navigate to URL
+07/23/2024 02:54:31.957 [main] INFO  TestLogger - Open Browser and Navigate to URL(Extent report)
+07/23/2024 02:54:31.978 [main] INFO  Test_BonusTrack2 - Navigated to URL: https://www.saucedemo.com/
+07/23/2024 02:54:32.253 [main] INFO  TestLogger - Test suite started: Test
+07/23/2024 02:54:32.384 [main] INFO  TestLogger - Test started: userLogin
+07/23/2024 02:54:32.459 [main] INFO  TestLogger - Enter credentials(Extent report)
+07/23/2024 02:54:33.532 [main] INFO  TestLogger - PASS: Test passed: userLogin
+07/23/2024 02:54:33.543 [main] INFO  TestLogger - Test started: preOrden
+07/23/2024 02:54:34.231 [main] INFO  TestLogger - click Add to cart(Extent report)
+07/23/2024 02:54:35.200 [main] INFO  TestLogger - PASS: Test passed: preOrden
+07/23/2024 02:54:35.203 [main] INFO  TestLogger - Test started: checkOut
+07/23/2024 02:54:35.206 [main] INFO  TestLogger - click Checkout(Extent report)
+07/23/2024 02:54:36.483 [main] INFO  Test_BonusTrack2 - click Finish
+07/23/2024 02:54:37.046 [main] INFO  Test_BonusTrack2 - Final checkout message: Checkout: Complete!
+07/23/2024 02:54:37.046 [main] INFO  TestLogger - Final checkout message : Checkout: Complete!
+07/23/2024 02:54:37.252 [main] INFO  TestLogger - PASS: Test passed: checkOut
+07/23/2024 02:54:37.256 [main] INFO  TestLogger - Test suite finished: Test
+07/23/2024 02:54:38.328 [main] INFO  Test_BonusTrack2 - ========== tearDown ===========
+07/23/2024 17:52:53.050 [main] INFO  Test_BonusTrack2 - ========== setUp ===========
+07/23/2024 17:52:53.061 [main] INFO  Test_BonusTrack2 - ========== Starting test cases execution ===========
+07/23/2024 17:52:57.208 [main] INFO  Test_BonusTrack2 - Open Browser and Navigate to URL
+07/23/2024 17:52:57.213 [main] INFO  TestLogger - Open Browser and Navigate to URL(Extent report)
+07/23/2024 17:52:57.236 [main] INFO  Test_BonusTrack2 - Navigated to URL: https://www.saucedemo.com/
+07/23/2024 17:52:57.373 [main] INFO  TestLogger - Test suite started: Test
+07/23/2024 17:52:57.460 [main] INFO  TestLogger - Test started: userLogin
+07/23/2024 17:52:57.523 [main] INFO  TestLogger - Enter credentials(Extent report)
+07/23/2024 17:52:58.305 [main] INFO  TestLogger - PASS: Test passed: userLogin
+07/23/2024 17:52:58.312 [main] INFO  TestLogger - Test started: preOrden
+07/23/2024 17:52:58.979 [main] INFO  TestLogger - click Add to cart(Extent report)
+07/23/2024 17:52:59.723 [main] INFO  TestLogger - PASS: Test passed: preOrden
+07/23/2024 17:52:59.727 [main] INFO  TestLogger - Test started: checkOut
+07/23/2024 17:52:59.731 [main] INFO  TestLogger - click Checkout(Extent report)
+07/23/2024 17:53:01.478 [main] INFO  Test_BonusTrack2 - click Finish
+07/23/2024 17:53:02.111 [main] INFO  Test_BonusTrack2 - Final checkout message: Checkout: Complete!
+07/23/2024 17:53:02.113 [main] INFO  TestLogger - Final checkout message : Checkout: Complete!
+07/23/2024 17:53:02.293 [main] INFO  TestLogger - PASS: Test passed: checkOut
+07/23/2024 17:53:02.293 [main] INFO  TestLogger - Test suite finished: Test
+07/23/2024 17:53:03.132 [main] INFO  Test_BonusTrack2 - ========== tearDown ===========
+07/23/2024 18:29:12.015 [main] INFO  Test_BonusTrack2 - ========== setUp ===========
+07/23/2024 18:29:12.026 [main] INFO  Test_BonusTrack2 - ========== Starting test cases execution ===========
+07/23/2024 18:29:16.694 [main] INFO  Test_BonusTrack2 - Open Browser and Navigate to URL
+07/23/2024 18:29:16.700 [main] INFO  TestLogger - Open Browser and Navigate to URL(Extent report)
+07/23/2024 18:29:16.722 [main] INFO  Test_BonusTrack2 - Navigated to URL: https://www.saucedemo.com/
+07/23/2024 18:29:16.843 [main] INFO  TestLogger - Test suite started: Test
+07/23/2024 18:29:16.950 [main] INFO  TestLogger - Test started: userLogin
+07/23/2024 18:29:17.015 [main] INFO  TestLogger - Enter credentials(Extent report)
+07/23/2024 18:29:18.145 [main] INFO  TestLogger - PASS: Test passed: userLogin
+07/23/2024 18:29:18.153 [main] INFO  TestLogger - Test started: preOrden
+07/23/2024 18:29:18.820 [main] INFO  TestLogger - click Add to cart(Extent report)
+07/23/2024 18:29:19.500 [main] INFO  TestLogger - PASS: Test passed: preOrden
+07/23/2024 18:29:19.507 [main] INFO  TestLogger - Test started: checkOut
+07/23/2024 18:29:19.511 [main] INFO  TestLogger - click Checkout(Extent report)
+07/23/2024 18:29:20.867 [main] INFO  Test_BonusTrack2 - click Finish
+07/23/2024 18:29:21.554 [main] INFO  Test_BonusTrack2 - Final checkout message: Checkout: Complete!
+07/23/2024 18:29:21.554 [main] INFO  TestLogger - Final checkout message : Checkout: Complete!
+07/23/2024 18:29:21.806 [main] INFO  TestLogger - PASS: Test passed: checkOut
+07/23/2024 18:29:21.811 [main] INFO  TestLogger - Test suite finished: Test
+07/23/2024 18:29:22.797 [main] INFO  Test_BonusTrack2 - ========== tearDown ===========
+07/23/2024 21:36:02.796 [main] INFO  Test_BonusTrack2 - ========== setUp ===========
+07/23/2024 21:36:02.806 [main] INFO  Test_BonusTrack2 - ========== Starting test cases execution ===========
+07/23/2024 21:36:08.556 [main] INFO  Test_BonusTrack2 - Open Browser and Navigate to URL
+07/23/2024 21:36:08.563 [main] INFO  TestLogger - Open Browser and Navigate to URL(Extent report)
+07/23/2024 21:36:08.590 [main] INFO  Test_BonusTrack2 - Navigated to URL: https://www.saucedemo.com/
+07/23/2024 21:36:08.786 [main] INFO  TestLogger - Test suite started: Test
+07/23/2024 21:36:08.889 [main] INFO  TestLogger - Test started: userLogin
+07/23/2024 21:36:08.961 [main] INFO  TestLogger - Enter credentials(Extent report)
+07/23/2024 21:36:09.350 [main] INFO  TestLogger - Screenshot capturado y a�adido al reporte: Antes de hacer clic en Login(2)
+07/23/2024 21:36:10.577 [main] INFO  TestLogger - PASS: Test passed: userLogin
+07/23/2024 21:36:10.588 [main] INFO  TestLogger - Test started: preOrden
+07/23/2024 21:36:11.452 [main] INFO  TestLogger - click Add to cart(Extent report)
+07/23/2024 21:36:12.518 [main] INFO  TestLogger - PASS: Test passed: preOrden
+07/23/2024 21:36:12.523 [main] INFO  TestLogger - Test started: checkOut
+07/23/2024 21:36:12.528 [main] INFO  TestLogger - click Checkout(Extent report)
+07/23/2024 21:36:14.191 [main] INFO  Test_BonusTrack2 - click Finish
+07/23/2024 21:36:14.824 [main] INFO  Test_BonusTrack2 - Final checkout message: Checkout: Complete!
+07/23/2024 21:36:14.825 [main] INFO  TestLogger - Final checkout message : Checkout: Complete!
+07/23/2024 21:36:15.035 [main] INFO  TestLogger - PASS: Test passed: checkOut
+07/23/2024 21:36:15.037 [main] INFO  TestLogger - Test suite finished: Test
+07/23/2024 21:36:15.958 [main] INFO  Test_BonusTrack2 - ========== tearDown ===========
+03/27/2026 16:01:58.504 [main] INFO  PurchaseOrderTest - ========== setUp ===========
+03/27/2026 16:01:58.506 [main] INFO  PurchaseOrderTest - ========== Starting test cases execution ===========
+03/27/2026 16:02:10.054 [main] INFO  PurchaseOrderTest - Open Browser and Navigate to URL
+03/27/2026 16:02:10.057 [main] INFO  TestLogger - Open Browser and Navigate to URL(Extent report)
+03/27/2026 16:02:10.060 [main] INFO  PurchaseOrderTest - Navigated to URL: https://www.saucedemo.com/
+03/27/2026 16:02:10.390 [main] INFO  TestLogger - Test suite started: Login and Checkout Tests
+03/27/2026 16:02:10.406 [main] INFO  TestLogger - Test started: userLogin
+03/27/2026 16:02:10.415 [main] INFO  TestLogger - Enter credentials(Extent report)
+03/27/2026 16:02:10.626 [main] INFO  TestLogger - Screenshot capturado y añadido al reporte: Antes de hacer clic en Login(2)
+03/27/2026 16:02:10.824 [main] INFO  TestLogger - PASS: Test passed: userLogin
+03/27/2026 16:02:10.828 [main] INFO  TestLogger - Test started: preOrden
+03/27/2026 16:02:11.698 [main] INFO  TestLogger - click Add to cart(Extent report)
+03/27/2026 16:02:12.097 [main] INFO  TestLogger - PASS: Test passed: preOrden
+03/27/2026 16:02:12.098 [main] INFO  TestLogger - Test started: checkOut
+03/27/2026 16:02:12.099 [main] INFO  TestLogger - click Checkout(Extent report)
+03/27/2026 16:02:12.114 [main] ERROR TestLogger - FAIL: Test failed: checkOut
+03/27/2026 16:02:12.114 [main] ERROR TestLogger - FAIL: Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#checkout"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [05a1b3e94f12d825beac4c5b42fa9931, findElement {using=id, value=checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: /var/folders/yv/sj644c3n0l5...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57700}, goog:processID: 52287, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57700/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 05a1b3e94f12d825beac4c5b42fa9931
+03/27/2026 16:02:12.134 [main] INFO  TestLogger - Test suite finished: Login and Checkout Tests
+03/27/2026 16:02:12.300 [main] INFO  PurchaseOrderTest - ========== tearDown ===========
+03/27/2026 16:02:32.701 [main] INFO  PurchaseOrderTest - ========== setUp ===========
+03/27/2026 16:02:32.703 [main] INFO  PurchaseOrderTest - ========== Starting test cases execution ===========
+03/27/2026 16:02:35.244 [main] INFO  PurchaseOrderTest - Open Browser and Navigate to URL
+03/27/2026 16:02:35.245 [main] INFO  TestLogger - Open Browser and Navigate to URL(Extent report)
+03/27/2026 16:02:35.251 [main] INFO  PurchaseOrderTest - Navigated to URL: https://www.saucedemo.com/
+03/27/2026 16:02:35.589 [main] INFO  TestLogger - Test suite started: Test
+03/27/2026 16:02:35.605 [main] INFO  TestLogger - Test started: userLogin
+03/27/2026 16:02:35.616 [main] INFO  TestLogger - Enter credentials(Extent report)
+03/27/2026 16:02:35.859 [main] INFO  TestLogger - Screenshot capturado y añadido al reporte: Antes de hacer clic en Login(2)
+03/27/2026 16:02:36.076 [main] INFO  TestLogger - PASS: Test passed: userLogin
+03/27/2026 16:02:36.079 [main] INFO  TestLogger - Test started: preOrden
+03/27/2026 16:02:36.921 [main] INFO  TestLogger - click Add to cart(Extent report)
+03/27/2026 16:02:37.308 [main] INFO  TestLogger - PASS: Test passed: preOrden
+03/27/2026 16:02:37.309 [main] INFO  TestLogger - Test started: checkOut
+03/27/2026 16:02:37.311 [main] INFO  TestLogger - click Checkout(Extent report)
+03/27/2026 16:02:37.326 [main] ERROR TestLogger - FAIL: Test failed: checkOut
+03/27/2026 16:02:37.326 [main] ERROR TestLogger - FAIL: Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#checkout"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [22aec0032bfabd3ccc7ddf0da7ae4881, findElement {using=id, value=checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: /var/folders/yv/sj644c3n0l5...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57745}, goog:processID: 52423, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57745/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 22aec0032bfabd3ccc7ddf0da7ae4881
+03/27/2026 16:02:37.348 [main] INFO  TestLogger - Test suite finished: Test
+03/27/2026 16:02:37.537 [main] INFO  PurchaseOrderTest - ========== tearDown ===========
+03/27/2026 16:02:52.058 [main] INFO  PurchaseOrderTest - ========== setUp ===========
+03/27/2026 16:02:52.060 [main] INFO  PurchaseOrderTest - ========== Starting test cases execution ===========
+03/27/2026 16:02:54.255 [main] INFO  PurchaseOrderTest - Open Browser and Navigate to URL
+03/27/2026 16:02:54.258 [main] INFO  TestLogger - Open Browser and Navigate to URL(Extent report)
+03/27/2026 16:02:54.263 [main] INFO  PurchaseOrderTest - Navigated to URL: https://www.saucedemo.com/
+03/27/2026 16:02:54.599 [main] INFO  TestLogger - Test suite started: Test
+03/27/2026 16:02:54.613 [main] INFO  TestLogger - Test started: userLogin
+03/27/2026 16:02:54.625 [main] INFO  TestLogger - Enter credentials(Extent report)
+03/27/2026 16:02:54.866 [main] INFO  TestLogger - Screenshot capturado y añadido al reporte: Antes de hacer clic en Login(2)
+03/27/2026 16:02:55.103 [main] INFO  TestLogger - PASS: Test passed: userLogin
+03/27/2026 16:02:55.107 [main] INFO  TestLogger - Test started: preOrden
+03/27/2026 16:02:56.016 [main] INFO  TestLogger - click Add to cart(Extent report)
+03/27/2026 16:02:56.419 [main] INFO  TestLogger - PASS: Test passed: preOrden
+03/27/2026 16:02:56.421 [main] INFO  TestLogger - Test started: checkOut
+03/27/2026 16:02:56.422 [main] INFO  TestLogger - click Checkout(Extent report)
+03/27/2026 16:02:56.436 [main] ERROR TestLogger - FAIL: Test failed: checkOut
+03/27/2026 16:02:56.436 [main] ERROR TestLogger - FAIL: Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#checkout"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [30eb42504434f4e7d7f15f4de9ab73cf, findElement {using=id, value=checkout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: /var/folders/yv/sj644c3n0l5...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57784}, goog:processID: 52510, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57784/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 30eb42504434f4e7d7f15f4de9ab73cf
+03/27/2026 16:02:56.457 [main] INFO  TestLogger - Test suite finished: Test
+03/27/2026 16:02:56.658 [main] INFO  PurchaseOrderTest - ========== tearDown ===========
+03/27/2026 16:08:35.207 [main] INFO  PurchaseOrderTest - ========== setUp ===========
+03/27/2026 16:08:35.209 [main] INFO  PurchaseOrderTest - ========== Starting test cases execution ===========
+03/27/2026 16:08:38.273 [main] INFO  PurchaseOrderTest - Open Browser and Navigate to URL
+03/27/2026 16:08:38.275 [main] INFO  TestLogger - Open Browser and Navigate to URL(Extent report)
+03/27/2026 16:08:38.278 [main] INFO  PurchaseOrderTest - Navigated to URL: https://www.saucedemo.com/
+03/27/2026 16:08:38.618 [main] INFO  TestLogger - Test suite started: Test
+03/27/2026 16:08:38.638 [main] INFO  TestLogger - Test started: userLogin
+03/27/2026 16:08:38.649 [main] INFO  TestLogger - Enter credentials(Extent report)
+03/27/2026 16:08:38.891 [main] INFO  TestLogger - Screenshot capturado y añadido al reporte: Antes de hacer clic en Login(2)
+03/27/2026 16:08:39.155 [main] INFO  TestLogger - PASS: Test passed: userLogin
+03/27/2026 16:08:39.158 [main] INFO  TestLogger - Test started: preOrden
+03/27/2026 16:08:40.028 [main] INFO  TestLogger - click Add to cart(Extent report)
+03/27/2026 16:08:40.482 [main] INFO  TestLogger - PASS: Test passed: preOrden
+03/27/2026 16:08:40.484 [main] INFO  TestLogger - Test started: checkOut
+03/27/2026 16:08:40.485 [main] INFO  TestLogger - click Checkout(Extent report)
+03/27/2026 16:08:40.940 [main] INFO  PurchaseOrderTest - click Finish
+03/27/2026 16:08:41.167 [main] INFO  PurchaseOrderTest - Final checkout message: Checkout: Complete!
+03/27/2026 16:08:41.167 [main] INFO  TestLogger - Final checkout message : Checkout: Complete!
+03/27/2026 16:08:41.251 [main] INFO  TestLogger - PASS: Test passed: checkOut
+03/27/2026 16:08:41.274 [main] INFO  TestLogger - Test suite finished: Test
+03/27/2026 16:08:41.462 [main] INFO  PurchaseOrderTest - ========== tearDown ===========
+03/27/2026 16:13:38.800 [main] INFO  PurchaseOrderTest - ========== Initializing Test Suite ===========
+03/27/2026 16:13:41.800 [main] INFO  TestLogger - Browser launched and navigated to: https://www.saucedemo.com/
+03/27/2026 16:13:42.159 [main] INFO  TestLogger - Test suite started: Test
+03/27/2026 16:13:42.175 [main] INFO  TestLogger - Test started: userLogin
+03/27/2026 16:13:42.188 [main] INFO  TestLogger - Executing Login flow
+03/27/2026 16:13:42.422 [main] INFO  TestLogger - Screenshot capturado y añadido al reporte: System state before login attempt
+03/27/2026 16:13:45.664 [main] INFO  TestLogger - PASS: Test passed: userLogin
+03/27/2026 16:13:45.667 [main] INFO  TestLogger - Test started: preOrden
+03/27/2026 16:13:46.015 [main] INFO  TestLogger - Adding product to cart
+03/27/2026 16:13:50.371 [main] INFO  TestLogger - PASS: Test passed: preOrden
+03/27/2026 16:13:50.373 [main] INFO  TestLogger - Test started: checkOut
+03/27/2026 16:13:50.374 [main] INFO  TestLogger - Starting checkout process
+03/27/2026 16:14:02.089 [main] INFO  PurchaseOrderTest - Final confirmation message: Checkout: Complete!
+03/27/2026 16:14:02.090 [main] INFO  TestLogger - Verification - Message found: Checkout: Complete!
+03/27/2026 16:14:02.092 [main] INFO  TestLogger - PASS: Test passed: checkOut
+03/27/2026 16:14:02.121 [main] INFO  TestLogger - Test suite finished: Test
+03/27/2026 16:14:12.458 [main] INFO  PurchaseOrderTest - ========== Test Suite Execution Finished ===========
+03/27/2026 16:14:18.964 [main] INFO  PurchaseOrderTest - ========== Initializing Test Suite ===========
+03/27/2026 16:14:21.296 [main] INFO  TestLogger - Browser launched and navigated to: https://www.saucedemo.com/
+03/27/2026 16:14:21.652 [main] INFO  TestLogger - Test suite started: Test
+03/27/2026 16:14:21.668 [main] INFO  TestLogger - Test started: userLogin
+03/27/2026 16:14:21.679 [main] INFO  TestLogger - Executing Login flow
+03/27/2026 16:14:21.779 [main] INFO  TestLogger - Screenshot capturado y añadido al reporte: System state before login attempt
+03/27/2026 16:14:24.997 [main] INFO  TestLogger - PASS: Test passed: userLogin
+03/27/2026 16:14:24.999 [main] INFO  TestLogger - Test started: preOrden
+03/27/2026 16:14:25.220 [main] INFO  TestLogger - Adding product to cart
+03/27/2026 16:14:29.479 [main] ERROR TestLogger - FAIL: Test failed: preOrden
+03/27/2026 16:14:29.480 [main] ERROR TestLogger - FAIL: Exception: java.lang.RuntimeException: Unexpected result for screenshot command: null
+03/27/2026 16:14:29.481 [main] INFO  TestLogger - Test started: checkOut
+03/27/2026 16:14:29.482 [main] INFO  TestLogger - Starting checkout process
+03/27/2026 16:14:29.510 [main] ERROR TestLogger - FAIL: Test failed: checkOut
+03/27/2026 16:14:29.510 [main] ERROR TestLogger - FAIL: Exception: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [eb41260ee90535f45680dd9036872eb3, findElement {value=checkout, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: /var/folders/yv/sj644c3n0l5...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57929}, goog:processID: 53142, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57929/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eb41260ee90535f45680dd9036872eb3
+03/27/2026 16:14:29.537 [main] INFO  TestLogger - Test suite finished: Test
+03/27/2026 16:14:29.825 [main] INFO  PurchaseOrderTest - ========== Test Suite Execution Finished ===========
+03/27/2026 16:16:55.062 [main] INFO  PurchaseOrderTest - ========== Initializing Automation Suite ===========
+03/27/2026 16:16:57.124 [main] INFO  PurchaseOrderTest - Navigated to URL: https://www.saucedemo.com/
+03/27/2026 16:16:57.468 [main] INFO  TestLogger - Test suite started: Test
+03/27/2026 16:16:57.484 [main] INFO  TestLogger - Test started: userLogin
+03/27/2026 16:16:57.495 [main] INFO  TestLogger - Starting Login Process
+03/27/2026 16:16:59.603 [main] INFO  TestLogger - Screenshot capturado y añadido al reporte: System state before login
+03/27/2026 16:16:59.834 [main] INFO  PurchaseOrderTest - Credentials submitted.
+03/27/2026 16:17:02.840 [main] INFO  TestLogger - PASS: Test passed: userLogin
+03/27/2026 16:17:02.843 [main] INFO  TestLogger - Test started: preOrden
+03/27/2026 16:17:03.033 [main] INFO  TestLogger - Adding product to cart
+03/27/2026 16:17:04.570 [main] INFO  PurchaseOrderTest - Product added to cart.
+03/27/2026 16:17:06.771 [main] INFO  PurchaseOrderTest - Navigating to Shopping Cart
+03/27/2026 16:17:09.370 [main] INFO  TestLogger - PASS: Test passed: preOrden
+03/27/2026 16:17:09.371 [main] INFO  TestLogger - Test started: checkOut
+03/27/2026 16:17:09.372 [main] INFO  TestLogger - Proceeding to Checkout
+03/27/2026 16:17:13.612 [main] INFO  PurchaseOrderTest - Shipping form completed.
+03/27/2026 16:17:18.362 [main] INFO  PurchaseOrderTest - Confirming final order.
+03/27/2026 16:17:22.610 [main] INFO  PurchaseOrderTest - Order message found: Checkout: Complete!
+03/27/2026 16:17:22.611 [main] INFO  TestLogger - Verification Step - Final Message: Checkout: Complete!
+03/27/2026 16:17:22.613 [main] INFO  TestLogger - PASS: Test passed: checkOut
+03/27/2026 16:17:22.640 [main] INFO  TestLogger - Test suite finished: Test
+03/27/2026 16:17:30.169 [main] INFO  PurchaseOrderTest - ========== Execution Finished ===========
+03/27/2026 16:26:07.309 [main] INFO  PurchaseOrderTest - ========== Initializing Automation Suite ===========
+03/27/2026 16:26:09.693 [main] INFO  PurchaseOrderTest - Navigated to URL: https://www.saucedemo.com/
+03/27/2026 16:26:10.031 [main] INFO  TestLogger - Test suite started: Test
+03/27/2026 16:26:10.048 [main] INFO  TestLogger - Test started: userLogin
+03/27/2026 16:26:10.061 [main] INFO  TestLogger - Starting Login Process
+03/27/2026 16:26:12.173 [main] INFO  TestLogger - Screenshot capturado y añadido al reporte: System state before login
+03/27/2026 16:26:12.457 [main] INFO  PurchaseOrderTest - Credentials submitted.
+03/27/2026 16:26:15.464 [main] INFO  TestLogger - PASS: Test passed: userLogin
+03/27/2026 16:26:15.467 [main] INFO  TestLogger - Test started: preOrden
+03/27/2026 16:26:15.650 [main] INFO  TestLogger - Adding product to cart
+03/27/2026 16:26:17.188 [main] INFO  PurchaseOrderTest - Product added to cart.
+03/27/2026 16:26:19.397 [main] INFO  PurchaseOrderTest - Navigating to Shopping Cart
+03/27/2026 16:26:21.994 [main] INFO  TestLogger - PASS: Test passed: preOrden
+03/27/2026 16:26:21.995 [main] INFO  TestLogger - Test started: checkOut
+03/27/2026 16:26:21.996 [main] INFO  TestLogger - Proceeding to Checkout
+03/27/2026 16:26:26.216 [main] INFO  PurchaseOrderTest - Shipping form completed.
+03/27/2026 16:26:30.926 [main] INFO  PurchaseOrderTest - Confirming final order.
+03/27/2026 16:26:35.188 [main] INFO  PurchaseOrderTest - Order message found: Checkout: Complete!
+03/27/2026 16:26:35.189 [main] INFO  TestLogger - Verification Step - Final Message: Checkout: Complete!
+03/27/2026 16:26:35.191 [main] INFO  TestLogger - PASS: Test passed: checkOut
+03/27/2026 16:26:35.222 [main] INFO  TestLogger - Test suite finished: Test
+03/27/2026 16:26:44.032 [main] INFO  PurchaseOrderTest - ========== Execution Finished ===========
